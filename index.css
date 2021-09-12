@@ -1,5 +1,8 @@
 #landing {
-background-image: url("./images/PS Wallpaper.jpg");
+background-image:
+linear-gradient(rgba(15, 20, 20, 0.30), rgba(250, 19, 13, 0.73)), 
+url("./images/PS Wallpaper.jpg")
+;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
